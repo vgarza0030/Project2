@@ -17,7 +17,7 @@ function startCountdown() {
 
         if (time <= 0) {
             clearInterval(countdown);
-            alert("Time's up!");
+            alert("Time's up! Have a great day!");
         }
     }, 1000);
 }
